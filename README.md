@@ -6,17 +6,17 @@ Default Emacs key bindings
 |:--------------:|:---------------------:|
 | <kbd>C-a</kbd> | `beginning-of-line`   |
 | <kbd>C-b</kbd> | `backward-char`       |
-| <kbd>C-c</kbd> |                       |
+| <kbd>C-c</kbd> | (prefix key)          |
 | <kbd>C-d</kbd> | `delete-char`         |
 | <kbd>C-e</kbd> | `end-of-line`         |
 | <kbd>C-f</kbd> | `forward-line`        |
 | <kbd>C-g</kbd> | `keyboard-quit`       |
-| <kbd>C-h</kbd> | prefix key            |
-| <kbd>C-i</kbd> |                       |
-| <kbd>C-j</kbd> |                       |
-| <kbd>C-k</kbd> |                       |
+| <kbd>C-h</kbd> | (prefix key)          |
+| <kbd>C-i</kbd> | (same as tab)         |
+| <kbd>C-j</kbd> | `newline-and-indent`  |
+| <kbd>C-k</kbd> | `kill-line`           |
 | <kbd>C-l</kbd> |                       |
-| <kbd>C-m</kbd> |                       |
+| <kbd>C-m</kbd> | (same as return)      |
 | <kbd>C-n</kbd> |                       |
 | <kbd>C-o</kbd> |                       |
 | <kbd>C-p</kbd> |                       |
